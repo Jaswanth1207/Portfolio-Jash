@@ -36,7 +36,7 @@ const HomeSection = ({ setActiveSection }) => (
           </div>
           <div className="flex items-center gap-6 pt-6">
             <div className="text-center">
-              <div className="text-2xl font-bold text-gray-900">9.0</div>
+              <div className="text-2xl font-bold text-gray-900">9.1</div>
               <div className="text-sm text-gray-600">CGPA</div>
             </div>
             <div className="text-center">
