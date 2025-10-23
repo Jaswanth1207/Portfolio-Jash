@@ -54,7 +54,7 @@ const HomeSection = ({ setActiveSection }) => (
             <div className="aspect-square bg-gradient-to-br from-blue-100 to-blue-200 rounded-3xl p-8">
               <div className="w-full h-full bg-gradient-to-br from-blue-600 to-blue-800 rounded-2xl flex items-center justify-center overflow-hidden">
                 <img
-                  src="public/jash.jpg"
+                  src="/jash.jpg"
                   alt="Jaswanth Immanuel"
                   className="object-cover w-full h-full rounded-2xl shadow-lg"
                 />
